@@ -1,17 +1,7 @@
-
-/* Your CSS Code here. */
-.m{
-	border:2px solid black;
-}
-.b{
-	margin:20px;
-	border:15px solid blue;
-}
-.p{
+.box{
+	width:300px;
 	background-color:lightblue;
 	padding:50px;
-}
-.box{
-	border:2px solid black;
-	width:300px;
+	border:15px solid blue;
+	margin:20px;
 }
