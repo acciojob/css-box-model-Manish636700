@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+.m{
+	border:2px solid black;
+}
+.b{
+	margin:20px;
+	border:15px solid blue;
+}
+.p{
+	background-color:lightblue;
+	padding:50px;
+}
+.box{
+	padding:50px;
+	border:2px solid black;
+	width:300px;
+}
